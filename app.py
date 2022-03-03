@@ -12,7 +12,7 @@ import pandas as pd
 
 
 st.markdown('''# Cryptocurrency Dashboard
-A simple cryptocurrency price app pulling price data from *Binance APi*.
+A simple cryptocurrency price app pulling price data from *Binance API*.
 ''')
 
 
